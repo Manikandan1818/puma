@@ -44,7 +44,7 @@ export const shoes = [
 ];
 
 export const statistics = [
-  { value: "1.5k+", label: "Brands" },
+  { value: "1.8k+", label: "Brands" },
   { value: "800+", label: "Shops" },
   { value: "350k+", label: "Customers" },
 ];
